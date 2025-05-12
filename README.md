@@ -1,4 +1,4 @@
-# CS426[A] Computer Graphics - Blender Exercises
+# Computer Graphics - Blender Exercises
 
 Welcome to the GitHub repository for CS426[A] Computer Graphics Blender exercises. This README provides instructions for setting up Blender and completing the four core exercises, along with the final assignment.
 
